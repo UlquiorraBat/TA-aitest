@@ -12,7 +12,7 @@ return {
     desc = 'Empty AI for testing purposes'
   },
   {
-    name = 'Simple AI',
+    name = 'SimpleAI',
     desc = 'EasyAI'
   },
   {
